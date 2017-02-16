@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 title: Architect theme
 description: Architect is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: 
+=======
+theme: jekyll-theme-architect
+>>>>>>> 876c5cc55247cd04397af8fe00c3f93b7f525ddc
